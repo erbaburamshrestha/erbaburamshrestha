@@ -3,8 +3,8 @@ Highly skilled Senior Data Engineer with over 4 years of experience<br>
 Experienced in designing, developing, and optimizing data pipelines, ETL/ELT workflows, and cloud-native architectures.<br>
 Proficient in Azure, Databricks, PySpark, SQL, and big data frameworks.<br>
 Expertise in data modeling, data warehousing, real-time data streaming, and data visualization using tools like Power BI and Tableau.<br>
-Strong problem-solving skills<br>with a focus on performance tuning, data quality, and regulatory compliance.<br> 
-Passionate about mentoring<br>and fostering a data-driven culture in organizations.<br>
+Strong problem-solving skills with a focus on performance tuning, data quality, and regulatory compliance.<br> 
+Passionate about mentoring and fostering a data-driven culture in organizations.<br>
 
 <br>PROFESSIONAL EXPERIENCE<br>
     ● Senior Data Engineer, DolphinDive Technology | Full-Time | June 2025 - September 2025<br>
