@@ -1,9 +1,9 @@
 # 💫 About Me:
-Highly skilled Senior Data Engineer with over 4 years of experience in designing, developing, and optimizing data pipelines, ETL/ELT workflows, and cloud-native architectures. 
-Proficient in Azure, Databricks, PySpark, SQL, and big data frameworks. 
-Expertise in data modeling, data warehousing, real-time data<br>streaming, and data visualization using tools like Power BI and Tableau. 
-Strong problem-solving skills<br>with a focus on performance tuning, data quality, and regulatory compliance. 
-Passionate about mentoring<br>and fostering a data-driven culture in organizations.
+Highly skilled Senior Data Engineer with over 4 years of experience in designing, developing, and optimizing data pipelines, ETL/ELT workflows, and cloud-native architectures.<br>
+Proficient in Azure, Databricks, PySpark, SQL, and big data frameworks.<br>
+Expertise in data modeling, data warehousing, real-time data streaming, and data visualization using tools like Power BI and Tableau.<br>
+Strong problem-solving skills<br>with a focus on performance tuning, data quality, and regulatory compliance.<br> 
+Passionate about mentoring<br>and fostering a data-driven culture in organizations.<br>
 
 <br>PROFESSIONAL EXPERIENCE<br>
     ● Senior Data Engineer, DolphinDive Technology | Full-Time | June 2025 - September 2025<br>
@@ -15,7 +15,7 @@ Passionate about mentoring<br>and fostering a data-driven culture in organizatio
   Adj. Faculty, Advance College of Engineering and Management, TU Part-Time | Jan 2022 - Present<br>
     ● Delivering lectures on Data Structure & Algorithms, Database Management Systems (DBMS),<br>Management Information Systems (MIS), and E-Business.<br>
   Adj. Faculty, Himalayan Whitehouse International College Part-Time | Jan 2024 - Present<br>
-    ● Delivering lectures onPython, Data Structures & Algorithms, Computer Networks, Data<br>Mining and Warehousing, and Databases.
+    ● Delivering lectures onPython, Data Structures & Algorithms, Computer Networks, Data<br>Mining and Warehousing, and Databases.<br>
 
 <br>CERTIFICATIONS & TRAINING<br>
   ● Data Engineering on Microsoft Azure, AWS Glue<br>
