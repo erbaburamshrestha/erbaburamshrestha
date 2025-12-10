@@ -36,8 +36,8 @@ Adj. Faculty, Himalayan Whitehouse International College Part-Time | Jan 2024 - 
   ● Becomes A Python Master Course, & Advance SQL
 
 <br>EDUCATION<br>
-  ● Master’s In Computer Engineering: Everest Engineering College, Pokhara University 2024 -<br>Present<br>
-  ● Bachelor’s In Computer Engineering: Everest Engineering College, Pokhara University 2017 -<br>2021
+  ● <br>Master’s In Computer Engineering: Everest Engineering College, PU 2024 -<br>Present<br>
+  ● <br>Bachelor’s In Computer Engineering: Everest Engineering College, PU 2017 -<br>2021<br>
 
 
 ## 🌐 Socials:
