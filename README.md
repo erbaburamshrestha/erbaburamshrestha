@@ -2,42 +2,29 @@
 Highly skilled Senior Data Engineer with over 4 years of experience in designing, developing, and optimizing<br>data pipelines, ETL/ELT workflows, and cloud-native architectures. Proficient in Azure, Databricks,<br>PySpark, SQL, and big data frameworks. Expertise in data modeling, data warehousing, real-time data<br>streaming, and data visualization using tools like Power BI and Tableau. Strong problem-solving skills<br>with a focus on performance tuning, data quality, and regulatory compliance. Passionate about mentoring<br>and fostering a data-driven culture in organizations.
 
 <br>PROFESSIONAL EXPERIENCE<br>
-  <br> Senior Data Engineer, DolphinDive Technology | Full-Time | June 2025 - September 2025<br>
-    ● Designed, and developed ETL/ELT processes and data warehousing using MS Fabric.<br>
-    ● Designed and maintained data models for Operational Data Store (ODS) and Data Warehouse<br>solutions.
+  <br> <br>
   <br> Senior Data Engineer, LIS Nepal | Full-Time | June 2025 - September 2025<br>
-    ● Designed, and developed ETL/ELT processes and data warehousing.<br>
-    ● Designed, developed and performed end-to-end data pipelines and visualizations using GCP,<br>Power BI, and Apache Airflow.<br>
-    ● Demonstrated strong proficiency in writing SQL queries for data manipulation, validation, and<br>analysis.
-  <br> Data Engineer, Fusemachines Nepal | Full-Time | August 2022 - June 2025<br>
-    ● Developed and optimized ETL/ELT pipelines using Azure Data Factory, PySpark, SQL,<br>ensuring efficient data processing.<br>
-    ● Designed and maintained data models for Operational Data Store (ODS) and Data Warehouse<br>solutions.<br>
-    ● Implemented real-time data streaming solutions for real-time analytics using Kafka and Event<br>Hubs.<br>
-    ● Created dynamic T-SQL scripts, stored procedures, and triggers to streamline data transformation<br>and reporting.<br>
-    ● Optimized database performance by implementing indexing, partitioning, and query optimization<br>strategies.<br>
-    ● Developed BI dashboards using Power BI and Tableau, improving business decision-making.<br>● Implemented CI/CD pipelines for data infrastructure projects using Azure DevOps and Git.
-  <br>Junior Database Administrator, Giga Infosoft | Full-Time | Jan 2021 - July 2022<br>
-    ● Designed and maintained relational databases, ensuring data integrity, security, and high<br>availability.<br>
-    ● Optimized SQL queries, improving performance by 20% using indexing, joins, and partitioning.<br>
-    ● Automated data ingestion pipelines, reducing manual efforts by 40%.<br>
-    ● Provided database support and troubleshooting for development teams.
-
+    ● Senior Data Engineer, DolphinDive Technology | Full-Time | June 2025 - September 2025<br>
+    ● Senior Data Engineer, LIS Nepal | Full-Time | June 2025 - September 2025<br>
+    ● Data Engineer, Fusemachines Nepal | Full-Time | August 2022 - June 2025<br>
+    ● Junior Database Administrator, Giga Infosoft | Full-Time | Jan 2021 - July 2022<br>
 <br>LECTURING EXPERIENCE<br>
-Adj. Faculty, Advance College of Engineering and Management, TU Part-Time | Jan 2022 - Present<br>
-  ● Delivering lectures on Data Structure & Algorithms, Database Management Systems (DBMS),<br>Management Information Systems (MIS), and E-Business.<br>
-Adj. Faculty, Himalayan Whitehouse International College Part-Time | Jan 2024 - Present<br>
-  ● Delivering lectures onPython, Data Structures & Algorithms, Computer Networks, Data<br>Mining and Warehousing, and Databases.
+  Adj. Faculty, Advance College of Engineering and Management, TU Part-Time | Jan 2022 - Present<br>
+    ● Delivering lectures on Data Structure & Algorithms, Database Management Systems (DBMS),<br>Management Information Systems (MIS), and E-Business.<br>
+  Adj. Faculty, Himalayan Whitehouse International College Part-Time | Jan 2024 - Present<br>
+    ● Delivering lectures onPython, Data Structures & Algorithms, Computer Networks, Data<br>Mining and Warehousing, and Databases.
 
 <br>CERTIFICATIONS & TRAINING<br>
-  ● Data Engineering on Microsoft Azure, AWS Glue<br>● Databricks Certified Associate Developer for Apache Spark<br>
+  ● Data Engineering on Microsoft Azure, AWS Glue<br>
+  ● Databricks Certified Associate Developer for Apache Spark<br>
   ● Advanced SQL & T-SQL Optimization<br>
   ● Astronomer Certification for Apache Airflow Fundamentals<br>
   ● Astronomer Certification DAG Authoring for Apache Airflow<br>
-  ● Becomes A Python Master Course, & Advance SQL
+  ● Becomes A Python Master Course, & Advance SQL<br>
 
 <br>EDUCATION<br>
-  ● <br>Master’s In Computer Engineering: Everest Engineering College, PU 2024 -<br>Present<br>
-  ● <br>Bachelor’s In Computer Engineering: Everest Engineering College, PU 2017 -<br>2021<br>
+  ● Master’s In Computer Engineering: Everest Engineering College, PU 2024 -<br>Present<br>
+  ● Bachelor’s In Computer Engineering: Everest Engineering College, PU 2017 -<br>2021<br>
 
 
 ## 🌐 Socials:
