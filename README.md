@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly skilled Senior Data Engineer with over 4 years of experience<br>
+Highly skilled Senior Data Engineer with over 5 years of experience<br>
 Experienced in designing, developing, and optimizing data pipelines, ETL/ELT workflows, and cloud-native architectures.<br>
 Proficient in Azure, Databricks, PySpark, SQL, and big data frameworks.<br>
 Expertise in data modeling, data warehousing, real-time data streaming, and data visualization using tools like Power BI and Tableau.<br>
@@ -15,6 +15,7 @@ Passionate about mentoring and fostering a data-driven culture in organizations.
 
 <br>PROFESSIONAL EXPERIENCE<br>
     ● Senior Data Engineer, DolphinDive Technology | Full-Time | June 2025 - September 2025<br>
+     ● Senior Data Engineer, PensionPro | Full-Time | June 2025 - September 2025<br>
     ● Senior Data Engineer, LIS Nepal | Full-Time | June 2025 - September 2025<br>
     ● Data Engineer, Fusemachines Nepal | Full-Time | August 2022 - June 2025<br>
     ● Junior Database Administrator, Giga Infosoft | Full-Time | Jan 2021 - July 2022<br>
