@@ -14,17 +14,18 @@ Passionate about mentoring and fostering a data-driven culture in organizations.
 
 
 <br>PROFESSIONAL EXPERIENCE<br>
-    ● Senior Data Engineer, DolphinDive Technology | Full-Time | June 2025 - September 2025<br>
-     ● Senior Data Engineer, PensionPro | Full-Time | June 2025 - September 2025<br>
+    ● Senior Data Engineer, DolphinDive Technology | Full-Time | September 2025 - Present<br>
+     ● Senior Data Engineer, PensionPro | Full-Time | September 2025 - Present<br>
     ● Senior Data Engineer, LIS Nepal | Full-Time | June 2025 - September 2025<br>
     ● Data Engineer, Fusemachines Nepal | Full-Time | August 2022 - June 2025<br>
     ● Junior Database Administrator, Giga Infosoft | Full-Time | Jan 2021 - July 2022<br>
     
 <br>LECTURING EXPERIENCE<br>
-  Adj. Faculty, Advance College of Engineering and Management, TU Part-Time | Jan 2022 - Present<br>
-    ● Delivering lectures on Data Structure & Algorithms, Database Management Systems (DBMS),<br>Management Information Systems (MIS), and E-Business.<br>
-  Adj. Faculty, Himalayan Whitehouse International College Part-Time | Jan 2024 - Present<br>
-    ● Delivering lectures onPython, Data Structures & Algorithms, Computer Networks, Data<br>Mining and Warehousing, and Databases.<br>
+    Adjunct Faculty, Himalayan Whitehouse International College Part-Time | Jan 2024 - Present<br>
+        ● Delivering lectures onPython, Data Structures & Algorithms, Computer Networks, Data<br>Mining and Warehousing, and Databases.<br>
+    Adjunct Faculty, Advance College of Engineering and Management, TU Part-Time | Jan 2022 - Jun 2026<br>
+        ● Delivering lectures on Data Structure & Algorithms, Database Management Systems (DBMS),<br>Management Information Systems (MIS), and E-Business.<br>
+
 
 <br>CERTIFICATIONS & TRAINING<br>
   ● Data Engineering on Microsoft Azure, AWS Glue<br>
